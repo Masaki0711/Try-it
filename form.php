@@ -32,7 +32,7 @@ http://〜〜〜〜〜.com/
  * 2011-2019 (c) Crytus corporation.
  */
 
-ini_set("short_open_tag", "0");
+ini_set("short_open_tag", "1");
 ini_set("magic_quotes_gpc", "0");
 ini_set("mbstring.encoding_translation", "0");
 
