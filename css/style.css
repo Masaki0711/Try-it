@@ -56,8 +56,8 @@ header {
 header #logo img {
 	width: 300px;	/*画像幅*/
 	float: left;	/*左に回り込み*/
-	margin-top: 9px;	/*上下のバランスをとって下さい*/
-	margin-bottom: 9px;
+	margin-top: 5px;	/*上下のバランスをとって下さい*/
+	margin-bottom: 5px;
 	margin-left: 3%;	/*左に空けるスペース*/
 }
 
@@ -550,7 +550,6 @@ body.s-n #sub,body.s-n #footermenu,.m-n {display: none;}
 header #logo img {
 	width: 200px;	/*画像幅*/
 	margin-top: 9px;	/*上下のバランスをとって下さい*/
-	margin-bottom: 9px;
 }
 
 /*全体の設定
