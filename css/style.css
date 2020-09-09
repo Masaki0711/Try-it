@@ -549,7 +549,8 @@ body.s-n #sub,body.s-n #footermenu,.m-n {display: none;}
 /*ロゴ画像*/
 header #logo img {
 	width: 200px;	/*画像幅*/
-	margin-top: 40px;	/*上下のバランスをとって下さい*/
+	margin-top: 9px;	/*上下のバランスをとって下さい*/
+	margin-bottom: 9px;
 }
 
 /*全体の設定
